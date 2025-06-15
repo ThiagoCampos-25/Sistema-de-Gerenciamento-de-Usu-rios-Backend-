@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.log
+*.pdb
+*.opendata
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Packages
+packages/
+*.nupkg
+
+# Rider
+.idea/
+
+# Resharper
+*.DotSettings
+
+# Test Results
+TestResults/
+
+# Local history for some IDEs
+.history/
+
+# Other
+appsettings.Development.json

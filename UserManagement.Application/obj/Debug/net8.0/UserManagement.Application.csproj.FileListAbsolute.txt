@@ -1,0 +1,12 @@
+D:\Projetos\UserManagement\UserManagement.Application\bin\Debug\net8.0\UserManagement.Application.deps.json
+D:\Projetos\UserManagement\UserManagement.Application\bin\Debug\net8.0\UserManagement.Application.dll
+D:\Projetos\UserManagement\UserManagement.Application\bin\Debug\net8.0\UserManagement.Application.pdb
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.AssemblyInfoInputs.cache
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.AssemblyInfo.cs
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.sourcelink.json
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.dll
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\refint\UserManagement.Application.dll
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.pdb
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\ref\UserManagement.Application.dll
