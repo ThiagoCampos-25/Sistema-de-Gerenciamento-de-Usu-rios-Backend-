@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CECD0933-F4ED-4ED2-9C3E-D89D45CFCEB8}|UserManagement.Application\\UserManagement.Application.csproj|d:\\projetos\\usermanagement\\usermanagement.application\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECD0933-F4ED-4ED2-9C3E-D89D45CFCEB8}|UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:usermanagement.application\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECD0933-F4ED-4ED2-9C3E-D89D45CFCEB8}|UserManagement.Application\\UserManagement.Application.csproj|d:\\projetos\\usermanagement\\usermanagement.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECD0933-F4ED-4ED2-9C3E-D89D45CFCEB8}|UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:usermanagement.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECD0933-F4ED-4ED2-9C3E-D89D45CFCEB8}|UserManagement.Application\\UserManagement.Application.csproj|d:\\projetos\\usermanagement\\usermanagement.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECD0933-F4ED-4ED2-9C3E-D89D45CFCEB8}|UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:usermanagement.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|d:\\projetos\\usermanagement\\usermanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:usermanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|d:\\projetos\\usermanagement\\usermanagement.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:usermanagement.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|d:\\projetos\\usermanagement\\usermanagement.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:usermanagement.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Application\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "UserManagement.Application\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Application\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "UserManagement.Application\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:19:46.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Application\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "UserManagement.Application\\DTOs\\CreateUserDto.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Application\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "UserManagement.Application\\DTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:18:15.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserManagement.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "UserManagement.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:14:43.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "UserManagement.Domain\\Entities\\UserRole.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "UserManagement.Domain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:12:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "UserManagement.Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "UserManagement.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:10:07.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UserManagement.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "UserManagement.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:03:54.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
