@@ -16,3 +16,5 @@ D:\Projetos\UserManagement\UserManagement.Infrastructure\obj\Debug\net8.0\refint
 D:\Projetos\UserManagement\UserManagement.Infrastructure\obj\Debug\net8.0\UserManagement.Infrastructure.pdb
 D:\Projetos\UserManagement\UserManagement.Infrastructure\obj\Debug\net8.0\UserManagement.Infrastructure.genruntimeconfig.cache
 D:\Projetos\UserManagement\UserManagement.Infrastructure\obj\Debug\net8.0\ref\UserManagement.Infrastructure.dll
+D:\Projetos\UserManagement\UserManagement.Infrastructure\bin\Debug\net8.0\UserManagement.Application.dll
+D:\Projetos\UserManagement\UserManagement.Infrastructure\bin\Debug\net8.0\UserManagement.Application.pdb

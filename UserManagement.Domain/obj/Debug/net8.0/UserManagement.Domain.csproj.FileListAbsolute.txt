@@ -10,3 +10,9 @@ D:\Projetos\UserManagement\UserManagement.Domain\obj\Debug\net8.0\UserManagement
 D:\Projetos\UserManagement\UserManagement.Domain\obj\Debug\net8.0\refint\UserManagement.Domain.dll
 D:\Projetos\UserManagement\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.pdb
 D:\Projetos\UserManagement\UserManagement.Domain\obj\Debug\net8.0\ref\UserManagement.Domain.dll
+D:\Projetos\UserManagement\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Domain.runtimeconfig.json
+D:\Projetos\UserManagement\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Application.dll
+D:\Projetos\UserManagement\UserManagement.Domain\bin\Debug\net8.0\UserManagement.Application.pdb
+D:\Projetos\UserManagement\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.csproj.AssemblyReference.cache
+D:\Projetos\UserManagement\UserManagement.Domain\obj\Debug\net8.0\UserMana.AF6DAD17.Up2Date
+D:\Projetos\UserManagement\UserManagement.Domain\obj\Debug\net8.0\UserManagement.Domain.genruntimeconfig.cache

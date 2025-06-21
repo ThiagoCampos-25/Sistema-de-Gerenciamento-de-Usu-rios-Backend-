@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\Projetos\\UserManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D575357D-289D-4617-B040-711AB8D8AE98}|UserManagement.Api\\UserManagement.Api.csproj|d:\\projetos\\usermanagement\\usermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D575357D-289D-4617-B040-711AB8D8AE98}|UserManagement.Api\\UserManagement.Api.csproj|solutionrelative:usermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projetos\\usermanagement\\usermanagement.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:usermanagement.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D575357D-289D-4617-B040-711AB8D8AE98}|UserManagement.Api\\UserManagement.Api.csproj|d:\\projetos\\usermanagement\\usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D575357D-289D-4617-B040-711AB8D8AE98}|UserManagement.Api\\UserManagement.Api.csproj|solutionrelative:usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|d:\\projetos\\usermanagement\\usermanagement.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:usermanagement.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projetos\\usermanagement\\usermanagement.infrastructure\\usermanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:usermanagement.infrastructure\\usermanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projetos\\usermanagement\\usermanagement.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:usermanagement.infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projetos\\usermanagement\\usermanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:usermanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projetos\\usermanagement\\usermanagement.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:usermanagement.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projetos\\usermanagement\\usermanagement.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E22FB56-CF11-41C2-BFF4-4327F7C20C0D}|UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:usermanagement.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D575357D-289D-4617-B040-711AB8D8AE98}|UserManagement.Api\\UserManagement.Api.csproj|d:\\projetos\\usermanagement\\usermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D575357D-289D-4617-B040-711AB8D8AE98}|UserManagement.Api\\UserManagement.Api.csproj|solutionrelative:usermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|d:\\projetos\\usermanagement\\usermanagement.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DD61B8-8F80-4CB4-A9A7-75B80BA9FF72}|UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:usermanagement.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UserManagement.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "UserManagement.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:54:56.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserManagement.Api",
-              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
-              "RelativeDocumentMoniker": "UserManagement.Api\\UserManagement.Api.csproj",
-              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
-              "RelativeToolTip": "UserManagement.Api\\UserManagement.Api.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-15T22:57:19.417Z",
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UserManagement.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "UserManagement.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:53:02.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Api\\Program.cs",
-              "RelativeDocumentMoniker": "UserManagement.Api\\Program.cs",
-              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Api\\Program.cs",
-              "RelativeToolTip": "UserManagement.Api\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "UserManagement.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "UserManagement.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T22:49:44.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "UserManagement.Api\\appsettings.json",
-              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Api\\appsettings.json",
-              "RelativeToolTip": "UserManagement.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-15T22:44:48.357Z",
+              "WhenOpened": "2025-06-21T00:50:16.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Entities\\UserRole.cs",
-              "RelativeDocumentMoniker": "UserManagement.Domain\\Entities\\UserRole.cs",
-              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Domain\\Entities\\UserRole.cs",
-              "RelativeToolTip": "UserManagement.Domain\\Entities\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UserManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T22:42:44.94Z",
+              "WhenOpened": "2025-06-21T00:46:47.907Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "UserManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "UserManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T22:42:34.683Z",
+              "WhenOpened": "2025-06-21T00:46:15.871Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "UserManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "UserManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T00:38:09.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagement.Infrastructure",
+              "DocumentMoniker": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj",
+              "ToolTip": "D:\\Projetos\\UserManagement\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj",
+              "RelativeToolTip": "UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T00:37:04.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

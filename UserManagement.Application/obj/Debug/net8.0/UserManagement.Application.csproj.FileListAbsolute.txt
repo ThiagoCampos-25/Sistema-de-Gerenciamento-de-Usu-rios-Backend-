@@ -10,3 +10,4 @@ D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManag
 D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\refint\UserManagement.Application.dll
 D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.pdb
 D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\ref\UserManagement.Application.dll
+D:\Projetos\UserManagement\UserManagement.Application\obj\Debug\net8.0\UserManagement.Application.csproj.AssemblyReference.cache
